@@ -21,7 +21,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 95 Public Repositories
+> 📜 97 Public Repositories
  > 
 > 🔑 11 Private Repositories 
 
