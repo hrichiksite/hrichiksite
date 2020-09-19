@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -77,9 +77,9 @@ Windows                  3 hrs 59 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               39 repos            ██████████████████░░░░░░░   72.22% 
-HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+JavaScript               40 repos            ██████████████████░░░░░░░   72.73% 
+HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82% 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
 
 ```
 
