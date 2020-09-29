@@ -9,6 +9,4 @@
 - ⚡ Fun fact: Developing new things everyday
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-
