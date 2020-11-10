@@ -17,7 +17,7 @@
 
 > 🏆 318 Contributions in the Year 2020
  > 
-> 📦 76.6 kB Used in Github's Storage 
+> 📦 77.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,17 +54,16 @@ Sunday       22 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      5 mins              █████████████████████████   100.0% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
