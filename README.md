@@ -81,7 +81,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/hrichiksite/hrichiksite/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/hrichiksite/hrichiksite/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
