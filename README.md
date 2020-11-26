@@ -15,7 +15,7 @@
 
 **🐱 My Github Data** 
 
-> 📦 79.3 kB Used in Github's Storage 
+> 📦 79.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
