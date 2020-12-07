@@ -17,11 +17,11 @@
 
 > 🏆 330 Contributions in the Year 2020
  > 
-> 📦 79.5 kB Used in Github's Storage 
+> 📦 81.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 161 Public Repositories 
+> 📜 162 Public Repositories 
  > 
 > 🔑 26 Private Repositories  
 
