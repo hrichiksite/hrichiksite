@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 43 Contributions in the Year 2021
+> 🏆 44 Contributions in the Year 2021
  > 
 > 📦 176.4 kB Used in Github's Storage 
  > 
@@ -70,11 +70,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               44 repos            █████████████░░░░░░░░░░░░   52.38% 
-HTML                     30 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+JavaScript               44 repos            █████████████░░░░░░░░░░░░   51.76% 
+HTML                     30 repos            ████████░░░░░░░░░░░░░░░░░   35.29% 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
+SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
 
 ```
 
