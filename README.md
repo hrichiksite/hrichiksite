@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -70,8 +70,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               44 repos            ████████████░░░░░░░░░░░░░   50.57% 
-HTML                     31 repos            █████████░░░░░░░░░░░░░░░░   35.63% 
+JavaScript               43 repos            ████████████░░░░░░░░░░░░░   49.43% 
+HTML                     32 repos            █████████░░░░░░░░░░░░░░░░   36.78% 
 Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
 CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
 SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
