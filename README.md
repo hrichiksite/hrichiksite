@@ -23,7 +23,7 @@
  > 
 > 📜 192 Public Repositories 
  > 
-> 🔑 42 Private Repositories  
+> 🔑 43 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
