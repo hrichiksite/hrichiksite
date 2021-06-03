@@ -8,6 +8,9 @@
 - 📫 Reach me at my email me@hrichik.xyz
 - ⚡ Fun fact : I'm making a doge themed social media, Check out [Dogegram](https://dogegram.xyz)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrichiksite)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
