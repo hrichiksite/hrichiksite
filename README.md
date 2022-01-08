@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hrichik 👋</h1>
-<h3 align="center">A 13 year old Dev ;) </h3>
+<h3 align="center">A 14 year old Dev ;) </h3>
 
 
 - 🔭 I’m currently working on [DogeGram](https://dogegram.xyz)
