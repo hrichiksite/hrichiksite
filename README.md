@@ -27,7 +27,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 227 Public Repositories 
+> 📜 228 Public Repositories 
  > 
 > 🔑 67 Private Repositories  
  > 
@@ -90,5 +90,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hrichiksite/hrichiksite/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 12:34:43 UTC
+ Last Updated on 22/03/2022 13:09:54 UTC
 <!--END_SECTION:waka-->
