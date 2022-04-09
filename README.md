@@ -13,7 +13,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-756%20Thousand%20lines%20of%20code-blue)
 
@@ -88,5 +88,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hrichiksite/hrichiksite/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 01:02:48 UTC
+ Last Updated on 09/04/2022 00:59:17 UTC
 <!--END_SECTION:waka-->
