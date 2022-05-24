@@ -21,8 +21,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 98 Contributions in the Year 2022
- > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -90,5 +88,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hrichiksite/hrichiksite/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/05/2022 01:05:02 UTC
+ Last Updated on 24/05/2022 01:16:10 UTC
 <!--END_SECTION:waka-->
