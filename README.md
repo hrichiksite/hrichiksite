@@ -13,7 +13,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -90,5 +90,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hrichiksite/hrichiksite/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 01:21:10 UTC
+ Last Updated on 09/08/2022 01:22:48 UTC
 <!--END_SECTION:waka-->
