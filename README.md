@@ -60,16 +60,16 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-instadata                3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +90,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hrichiksite/hrichiksite/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2022 01:21:17 UTC
+ Last Updated on 27/10/2022 01:20:41 UTC
 <!--END_SECTION:waka-->
