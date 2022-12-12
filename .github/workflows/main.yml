@@ -27,10 +27,10 @@ jobs:
           plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
+          plugin_activity_visibility: public
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
@@ -50,8 +50,6 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
