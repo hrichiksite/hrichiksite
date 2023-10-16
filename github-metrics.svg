@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ToolJet/ToolJet</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀</div>
@@ -2756,7 +2756,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 32.4k out of 113m users</span>
+                                    <span class="gh">ranked 32.4k out of 122m users</span>
                                 </div>
                                 <div class="text">Published 248 public repositories</div>
                             </div>
@@ -2943,7 +2943,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2023, 20:45:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 21:50:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
