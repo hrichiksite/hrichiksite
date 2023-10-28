@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2101" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2157" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4074 Commits
+                            4388 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            67 issue comments
+                            68 issue comments
                         </div>
                     </section>
                     <section>
@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ServiceNowDevProgram/SlackerBot</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official application repository for the bot @Slacker on the sndevs.com workspace.</div>
@@ -2610,6 +2610,137 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#284 Downdetector parser</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by hrichiksite in <span class="repo">ServiceNowDevProgram/SlackerBot</span></div>
+                                    <div class="comment">Added a few mapped services. 
+
+
+
+service
+link
+
+
+
+
+aws
+https://downdetector.com/status/aws-amazon-web-services/
+
+
+doordash
+https://downdetector.com/status/doordash/
+
+
+spectrum
+https://downdetector.com/status/spectrum/
+
+
+diablo
+https://downdetector.com/status/diablo/
+
+
+servicenow
+https://downdetector.com/status/service-now/
+
+
+youtube
+https://downdetector.com/status/youtube/
+
+
+at&amp;t
+https://downdetector.com/status/att/
+
+
+verizon
+https://downdetector.com/status/verizon/
+
+
+tmobile
+https://downdetector.com/status/t-mobile/
+
+
+gcp
+https://downdetector.com/status/google-cloud/
+
+
+google
+https://downdetector.com/status/google/
+
+
+googledrive
+https://downdetector.com/status/google-drive/
+
+
+waze
+https://downdetector.com/status/waze/
+
+
+x
+https://downdetector.com/status/twitter/
+
+
+gmail
+https://downdetector.com/status/gmail/
+
+
+office365
+https://downdetector.com/status/microsoft-365/
+
+
+azure
+https://downdetector.com/status/windows-azure/
+
+
+teams
+https://downdetector.com/status/teams/
+
+
+reddit
+https://downdetector.com/status/reddit/
+
+
+discord
+https://downdetector.com/status/discord/
+
+
+downdetector
+https://downdetector.com/status/downdetector/</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hrichiksite/SlackerBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">downdetectorparser</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7fbe794</div>
+                                        <div class="message">Update Downdetector.js
+
+Fix a variable name
+Add a list of mapped services</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#101 Create a !downdetector Parser</span>
                                     </div>
                                 </div>
@@ -2653,42 +2784,6 @@ I've submitted a base PR for this parser, more to come.</div>
                                     <div class="commit">
                                         <div class="sha">#3ab1793</div>
                                         <div class="message">Update Downdetector.js for the code</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hrichiksite/SlackerBot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">downdetectorparser</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b4e4c83</div>
-                                        <div class="message">Create Downdetector.js</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">downdetectorparser</span>
-                                        in
-                                        <span class="repo">hrichiksite/SlackerBot</span>
                                     </div>
                                 </div>
                             </section>
@@ -2966,7 +3061,7 @@ I've submitted a base PR for this parser, more to come.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2023, 18:45:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2023, 19:42:10 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
