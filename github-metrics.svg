@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ServiceNowDevProgram/SlackerBot</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official application repository for the bot @Slacker on the sndevs.com workspace.</div>
@@ -2907,7 +2907,7 @@ I've submitted a base PR for this parser, more to come.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 31.8k out of 124m users</span>
+                                    <span class="gh">ranked 31.8k out of 122m users</span>
                                 </div>
                                 <div class="text">Published 251 public repositories</div>
                             </div>
@@ -3061,7 +3061,7 @@ I've submitted a base PR for this parser, more to come.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2023, 20:44:27 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2023, 21:47:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
