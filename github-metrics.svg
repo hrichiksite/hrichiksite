@@ -2785,7 +2785,7 @@ my code, if someone wants to check: https://github.com/Dogegram/Code/blob/main/c
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 32k out of 125m users</span>
+                                    <span class="gh">ranked 32k out of 123m users</span>
                                 </div>
                                 <div class="text">Published 251 public repositories</div>
                             </div>
@@ -2939,7 +2939,7 @@ my code, if someone wants to check: https://github.com/Dogegram/Code/blob/main/c
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 09:48:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 10:44:40 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
