@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bentoml/OpenLLM</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Operating LLMs in production</div>
@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>replicate/cog</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Containers for machine learning</div>
@@ -2785,7 +2785,7 @@ sorry</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 32k out of 124m users</span>
+                                    <span class="gh">ranked 32k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 252 public repositories</div>
                             </div>
@@ -2939,7 +2939,7 @@ sorry</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2023, 18:49:54 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2023, 19:45:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
