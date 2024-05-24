@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denoland/saaskit</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern SaaS template built on Fresh.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Savory/saaskit-danet</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern SaaS template built with Fresh for SSR and Danet for the API</div>
@@ -2799,7 +2799,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 32.4k out of 133m users</span>
+                                    <span class="gh">ranked 32.4k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 258 public repositories</div>
                             </div>
@@ -2953,7 +2953,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2024, 16:36:23 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2024, 17:37:19 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
