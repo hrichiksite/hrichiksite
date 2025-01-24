@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2064" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2081" class="">
     <defs>
         <style/>
     </defs>
@@ -2514,7 +2514,7 @@
                                         <span>starred Nov 28 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">An Android app to turn Google Maps links into geo: links</div>
+                                <div class="field description">An Android app to open Google Maps in other map apps and to create geo: links</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2981,7 +2981,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 14:36:09 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 15:36:19 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
