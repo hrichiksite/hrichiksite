@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1452" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1435" class="">
     <defs>
         <style/>
     </defs>
@@ -2434,7 +2434,7 @@
                                         <span>starred Jan 04 2026</span>
                                     </div>
                                 </div>
-                                <div class="field description">The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.</div>
+                                <div class="field description">The personal finance app for everyone (by everyone)</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2606,7 +2606,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2026, 14:25:45 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2026, 15:22:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
